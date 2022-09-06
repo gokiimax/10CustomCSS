@@ -1,0 +1,9 @@
+/* =====- Custom Background Image -==== */
+
+
+:root {
+    --background-image: url('https://images7.alphacoders.com/113/thumb-1920-1135150.jpg'); /*Change the link to your custom image*/
+    --opacity: .95;
+}
+
+:root {background:var(--background-image) center/cover no-repeat;opacity:var(--opacity);}

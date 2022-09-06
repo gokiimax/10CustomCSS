@@ -13,6 +13,11 @@
 ---
 
 # All Scripts:
-- [🏠] [Custom Home Icon]().
-- [🏠] [Spinning Home Icon]().
-- [🌈] [Rainbow Channels & Categories]().
+- [🏠] [Custom Home Icon](scripts/custom_home_icon.css).
+- [📝] [Custom Font](scripts/custom_font.css.css)
+- [⭕] [Spinning Home Icon](scripts/spinning_home_Icon.css).
+- [🌈] [Rainbow Channels & Categories](scripts/rainbow_channels_and_categories.css).
+- [🆙] [Capitalized Channel Names](scripts/capitalized_channel_names.css)
+- [👑] [Custom Role Tags](scripts/custom_role_tags.css)
+- [📍] [Rounded Context Menu](scripts/rounded_context_menu.css)
+- [🖼️] [Custom Background Image](scripts/custom_background_image.css)

@@ -1,0 +1,29 @@
+/* =====- Rainbow Channels & Categories -==== */
+
+/* Channels */
+.channelName-3KPsGw {
+    background: linear-gradient(90deg, #ff0000, #ffff00, #ff00f3, #ff00f3, #0033ff, #ff00c4, #ff0000);
+    background-size: 400%;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    animation: animate 10s linear infinite;
+}
+
+/* Categories and Roles */
+.icon-2W8DHG, .container-q97qHp, .icon-3zI3d2 {
+    background: linear-gradient(90deg, #ff0000, #ffff00, #ff00f3, #ff00f3, #0033ff, #ff00c4, #ff0000);
+    background-size: 400%;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    animation: animate 10s linear infinite;
+}
+
+/* Animation */
+@keyframes animate {
+    0% {
+        background-position: 0%;
+    }
+    100% {
+        background-position: 400%;
+    }
+}

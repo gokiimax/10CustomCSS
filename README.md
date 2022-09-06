@@ -7,7 +7,7 @@
 </p>
 <br>
 <p align="center">
-  Top 10 Custom CSS Scripts for DISCORD
+  Top 8 Custom CSS Scripts for DISCORD
 </p>
 
 ---

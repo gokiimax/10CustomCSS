@@ -14,7 +14,7 @@
 
 # All Scripts:
 - [🏠] [Custom Home Icon](scripts/custom_home_icon.css).
-- [📝] [Custom Font](scripts/custom_font.css.css)
+- [📝] [Custom Font](scripts/custom_font.css)
 - [⭕] [Spinning Home Icon](scripts/spinning_home_Icon.css).
 - [🌈] [Rainbow Channels & Categories](scripts/rainbow_channels_and_categories.css).
 - [🆙] [Capitalized Channel Names](scripts/capitalized_channel_names.css)
